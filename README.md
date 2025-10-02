@@ -9,7 +9,7 @@ The learning objectives are:
 - WHY: understanding the value of integrated toolchain for transformations
 - WHAT: learnung what the integrated toolchain and its scope is
 - HOW: deep dive into the integrations across the solutions and how data flows / is synchronized
-- applying this knowledge hands-on in the product 
+- applying this knowledge hands-on in the product in SAP Signavio, SAP LeanIX, SAP Cloud ALM
 
 
 ## Overview
@@ -17,7 +17,7 @@ The learning objectives are:
 The content covers the following topics: 
 - Intro to Integrated Toolchain for Transformations
 - Case study of fictional company
-- Hands-on group work and exercises across Signavio, LeanIX & Cloud ALM in an integrated demo environment
+- Hands-on group work and exercises in an integrated demo environment
 
 ## Requirements
 
@@ -25,15 +25,16 @@ The requirements to follow the exercises in this repository are:
 
 ## Slides
 
-Presentation can be found here
+Presentation can be found here incl. video and welcome message of the CEO Jane.
 
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Microsoft Forms](exercises/ex0/)
-- [User and Password Access to demo landscape](exercises/ex1/)
-- [Link to demo landscape](exercises/ex2/)
+- [Microsoft Forms](https://forms.office.com/e/DyerDrnMk8)
+- You will use a demo user login with password for the training that works via SSO for all 3 products at the same time.
+[User and Password Access to demo landscape](exercises/ex1/)
+- Please log into the demo workspace into your starting point for the case study in Signavio (use an incognito browser to ensures that cache and cookies are not hindering you from logging in with the demo user we provide you for the training): [Link to demo landscape](https://editor.signavio.com/p/hub/home?t=22a705a61bb345728824fda563d1daf2) 
 
   
 **OR** Link to the Tutorial Navigator for example...
