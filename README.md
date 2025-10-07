@@ -16,7 +16,7 @@ The learning objectives are:
 
 The hands-on session covers the following topics: 
 - Intro to Integrated Toolchain for Transformations (15 mins)
-- Case study of fictional company introduction (5 mins)
+- Case study introduction of fictional company "N3C" (5 mins)
 - Hands-on group work and exercises in an integrated demo environment (90 mins)
 - Q&A & Feedback (10 mins)
 
@@ -34,7 +34,7 @@ Presentation is shown live on screen in the room and can also be found here.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+To get started, ensure you are well set up and have everything in place to self-navigate through this hands-on bootcamp:
 
 - Please use a demo user login with password for the training that works via SSO (for all 3 products at the same time).
 [User and Password Access to demo landscape](exercises/ex1/)
@@ -42,10 +42,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - Please navigate through this self-serve journey to complete the exercises and questions via the [Microsoft Forms](https://forms.office.com/e/DyerDrnMk8)
 
   
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
