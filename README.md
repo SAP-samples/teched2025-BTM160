@@ -43,7 +43,7 @@ The key solutions and integrations you will interact with are as follows:
 To get started, ensure you are well set up and have everything in place to self-navigate through this hands-on bootcamp:
 
 - Please use a demo user login with password for the training that works via SSO (for all 3 products at the same time).
-[User and Password Access to demo landscape](exercises/ex1/)
+[User and Password Access to demo landscape](exercises/)
 - Please log into the demo workspace into your starting point for the case study in Signavio (use an incognito browser to ensures that cache and cookies are not hindering you from logging in with the demo user we provide you for the training): [Link to demo landscape](https://editor.signavio.com/p/hub/home?t=22a705a61bb345728824fda563d1daf2)
 - Please navigate through this self-serve journey to complete the exercises and questions via the [Microsoft Forms](https://forms.office.com/e/DyerDrnMk8)
 
