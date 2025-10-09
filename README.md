@@ -30,12 +30,13 @@ The requirements to follow the exercises in this repository are:
 
 ## Slides
 
-Presentation is shown live on screen in the room and can also be found here.
+Presentation is shown live on screen in the room and can also be found [here](exercises/).
 
 The key solutions and integrations you will interact with are as follows:
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8c3d286d-5f6b-487d-906f-0b47de8b6d87" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7a25bf0e-18e2-4a32-a680-cc070be49adf" />
 
+For a detailed recording of the demo flow, you can revise this [video](https://sapvideo.cfapps.eu10-004.hana.ondemand.com/?entry_id=1_vybhypx6)
 
 
 ## Exercises
