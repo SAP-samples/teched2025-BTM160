@@ -15,10 +15,10 @@ The learning objectives are:
 ## Overview
 
 The hands-on session covers the following topics: 
-- Intro to Integrated Toolchain for Transformations (15 mins)
+- Intro to Integrated Toolchain for Transformations (10 mins)
 - Case study introduction of fictional company "N3C" (5 mins)
 - Hands-on group work and exercises in an integrated demo environment (90 mins)
-- Q&A & Feedback (10 mins)
+- Q&A & Feedback (15 mins)
 
 ## Requirements
 
